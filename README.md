@@ -23,13 +23,7 @@ This is a simple login page project that uses API integration for user authentic
 ## API Working
 - An API call is triggered when the login button is clicked
 - Login is successful if the entered data is correct
-- An error message is shown for incorrect credentials
-
-  ## Screenshots
-
-![Project Screenshot](Github%20 ss.png)
-
-
+- An error message is shown for incorrect credential
 
 
 ## Future Improvements

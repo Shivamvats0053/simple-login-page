@@ -27,7 +27,7 @@ This is a simple login page project that uses API integration for user authentic
 
   ## Screenshots
 
-![Project Screenshot](Github%20ss.png)
+![Project Screenshot](Github%20 ss.png)
 
 
 

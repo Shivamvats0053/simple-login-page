@@ -26,7 +26,8 @@ This is a simple login page project that uses API integration for user authentic
 - An error message is shown for incorrect credentials
   ## Screenshots
 
-![Project Screenshot](images/screenshot.png)
+![Project Screenshot](Github%20ss.png)
+
 
 
 ## Future Improvements

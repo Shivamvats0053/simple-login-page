@@ -25,6 +25,7 @@ This is a simple login page project that uses API integration for user authentic
 - Login is successful if the entered data is correct
 - An error message is shown for incorrect credential
 
+<img width="1366" height="768" alt="github ss" src="https://github.com/user-attachments/assets/55d2ba80-74f3-4593-8e18-6a9262d0457f" />
 
 ## Future Improvements
 - Database Integration
